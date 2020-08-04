@@ -1,0 +1,24 @@
+.nav {
+    background-color: black;
+    height: 75px;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+}
+
+.name {
+    font-size: large;
+    font-weight: bold;
+}
+
+.social-media a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.avatar {
+    height: 250px;
+    width: 250px;
+}
